@@ -1,0 +1,102 @@
+This is the February 1992 Project Gutenberg release of: 
+ 
+Paradise Lost by John Milton 
+ 
+The oldest etext known to Project Gutenberg (ca. 1964-1965) 
+(If you know of any older ones, please let us know.) 
+ 
+ 
+Introduction  (one page) 
+ 
+This etext was originally created in 1964-1965 according to Dr. 
+Joseph Raben of Queens College, NY, to whom it is attributed by 
+Project Gutenberg.  We had heard of this etext for years but it 
+was not until 1991 that we actually managed to track it down to 
+a specific location, and then it took months to convince people 
+to let us have a copy, then more months for them actually to do 
+the copying and get it to us.  Then another month to convert to 
+something we could massage with our favorite 486 in DOS.  After 
+that is was only a matter of days to get it into this shape you 
+will see below.  The original was, of course, in CAPS only, and 
+so were all the other etexts of the 60's and early 70's.  Don't 
+let anyone fool you into thinking any etext with both upper and 
+lower case is an original; all those original Project Gutenberg 
+etexts were also in upper case and were translated or rewritten 
+many times to get them into their current condition.  They have 
+been worked on by many people throughout the world. 
+ 
+In the course of our searches for Professor Raben and his etext 
+we were never able to determine where copies were or which of a 
+variety of editions he may have used as a source.  We did get a 
+little information here and there, but even after we received a 
+copy of the etext we were unwilling to release it without first 
+determining that it was in fact Public Domain and finding Raben 
+to verify this and get his permission.  Interested enough, in a 
+totally unrelated action to our searches for him, the professor 
+subscribed to the Project Gutenberg listserver and we happened, 
+by accident, to notice his name. (We don't really look at every 
+subscription request as the computers usually handle them.) The 
+etext was then properly identified, copyright analyzed, and the 
+current edition prepared. 
+ 
+To give you an estimation of the difference in the original and 
+what we have today:  the original was probably entered on cards 
+commonly known at the time as "IBM cards" (Do Not Fold, Spindle 
+or Mutilate) and probably took in excess of 100,000 of them.  A 
+single card could hold 80 characters (hence 80 characters is an 
+accepted standard for so many computer margins), and the entire 
+original edition we received in all caps was over 800,000 chars 
+in length, including line enumeration, symbols for caps and the 
+punctuation marks, etc., since they were not available keyboard 
+characters at the time (probably the keyboards operated at baud 
+rates of around 113, meaning the typists had to type slowly for 
+the keyboard to keep up). 
+ 
+This is the second version of Paradise Lost released by Project 
+Gutenberg.  The first was released as our October, 1991 etext. 
+ 
+ 
+ 
+ 
+ 
+Paradise Lost 
+ 
+ 
+ 
+ 
+Book I 
+ 
+ 
+Of Man's first disobedience, and the fruit 
+Of that forbidden tree whose mortal taste 
+Brought death into the World, and all our woe, 
+With loss of Eden, till one greater Man 
+Restore us, and regain the blissful seat, 
+Sing, Heavenly Muse, that, on the secret top 
+Of Oreb, or of Sinai, didst inspire 
+That shepherd who first taught the chosen seed 
+In the beginning how the heavens and earth 
+Rose out of Chaos: or, if Sion hill 
+Delight thee more, and Siloa's brook that flowed 
+Fast by the oracle of God, I thence 
+Invoke thy aid to my adventurous song, 
+That with no middle flight intends to soar 
+Above th' Aonian mount, while it pursues 
+Things unattempted yet in prose or rhyme. 
+And chiefly thou, O Spirit, that dost prefer 
+Before all temples th' upright heart and pure, 
+Instruct me, for thou know'st; thou from the first 
+Wast present, and, with mighty wings outspread, 
+Dove-like sat'st brooding on the vast Abyss, 
+And mad'st it pregnant: what in me is dark 
+Illumine, what is low raise and support; 
+That, to the height of this great argument, 
+I may assert Eternal Providence, 
+And justify the ways of God to men. 
+  Say first--for Heaven hides nothing from thy view, 
+Nor the deep tract of Hell--say first what cause 
+Moved our grand parents, in that happy state, 
+Favoured of Heaven so highly, to fall off 
+From their Creator, and transgress his will 
+For one restraint, lords of the World besides. 
+Who first seduced them to that foul revolt? 
